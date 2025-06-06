@@ -17,8 +17,8 @@
 1.  **📂 Clone the Repository (Optional):**
     If you have Git, clone the repository:
     ```bash
-    git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-    cd YOUR_REPOSITORY_NAME
+    git clone https://github.com/x3kim/LM-Buddy.git
+    cd LM-Buddy
     ```
     Alternatively, download the source code ZIP and extract it.
 
