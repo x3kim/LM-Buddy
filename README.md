@@ -10,6 +10,8 @@
 
 This project is a personal journey of learning and exploration into AI, various programming languages, GUIs, and system interaction, driven by curiosity. I'm building this step-by-step and **welcome collaborators and contributors** who are also excited about this kind of technology! Let's learn and build together! 🚀
 
+⚠️ Install instructions and how to use it here: 📗 [INSTALL.md](./docs/INSTALL.md)
+
 ## 🌟 Core Features (current)
 
 *   **🖥️ Screen Analysis:** LM Buddy (via Classic GUI) can take a screenshot of your active window.
