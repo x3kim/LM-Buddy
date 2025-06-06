@@ -1,0 +1,41 @@
+# --- Python Virtual Environment ---
+# Standard directories for Python virtual environments.
+.venv/
+venv/
+env/
+*.venv
+
+# --- Python Cache & Bytecode ---
+# Compiled Python files and cache directories.
+__pycache__/
+*.py[cod] # Covers .pyc, .pyo, .pyd
+*.so      # Compiled extensions on Linux/macOS
+
+# --- IDE Specific ---
+# Visual Studio Code specific settings and workspace files.
+# If you have project-specific settings in .vscode/settings.json
+# that absolutely MUST be shared, you can make this more specific
+# (e.g., .vscode/* and !.vscode/settings.json). However, it's common
+# to ignore the entire .vscode directory as it often contains
+# user-specific configurations.
+.vscode/
+
+# --- Operating System Specific Files ---
+# macOS specific
+.DS_Store
+
+# Windows specific
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Log Files (Good practice, if your app generates them) ---
+# *.log
+# logs/
+# *.log.*
+
+# --- Temporary & Backup Files (Good practice) ---
+# *~
+# *.swp
+# *.bak
+# *.tmp
